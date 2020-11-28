@@ -6,7 +6,7 @@ and LDPC_Decoder_no4cycle_col3.bsv)
 
 Hence, Reed Muller code was implemented. It was able to correct upto 1 bit error. (check files: rm_code_with_comment.cpp, rm_encoder.bsv and rm_decoder.bsv)
 
-Guided by Dr V Kamakoti, Dept of CSE, IIT Madras.
+Guided by Dr V Kamakoti, Dept of CSE, IIT Madras, India.
 
 Here are the list of references that were used:
 
